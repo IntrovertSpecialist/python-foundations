@@ -1,0 +1,4 @@
+name = str(input("Enter your name: "))
+age = int(input("Enter your age: "))
+gender = str(input("Enter your gender: "))
+print(f"Hello {name}! You are {age} years old and your gender is {gender}.")
